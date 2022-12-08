@@ -6,7 +6,7 @@ A colorful, yet eye-friendly, theme designed for use on data projectors, where d
 
 ## Installation
 
-In **Microsoft Visual Studio Code** (download it [here](https://code.visualstudio.com/Download)), press `Ctrl + P`. Paste `ext install faustocintra.berry-latte-light-theme` into the box and hit `Enter`. Reload VSCode window when done.
+In **Microsoft Visual Studio Code** (download it [here](https://code.visualstudio.com/Download)), press `Ctrl + P`. Paste `ext install goncin.berry-latte-light-theme` into the box and hit `Enter`. Reload VSCode window when done.
 
 ## Credits
 
