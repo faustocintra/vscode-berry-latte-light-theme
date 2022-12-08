@@ -1,0 +1,44 @@
+{
+  "name": "berry-latte-light-theme",
+  "displayName": "Berry Latte Light Theme",
+  "description": "A fruity bit on coffee latte makes up an eye-friendly light theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "faustocintra",
+  "license": "MIT",
+  "galleryBanner": {
+      "color": "#FA8072",
+      "theme": "light"
+  },
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/faustocintra/vscode-berry-latte-light-theme.git"
+	},
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Berry Latte Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/berry-latte-light-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "berry latte",
+    "theme",
+    "light",
+    "berry latte light",
+    "eye-friendly"
+  ],
+  "bugs": {
+    "url": "https://github.com/faustocintra/vscode-berry-latte-light-theme/issues",
+    "email": "professor@faustocintra.com.br"
+  },
+  "homepage": "https://github.com/faustocintra/vscode-berry-latte-light-theme"
+}
