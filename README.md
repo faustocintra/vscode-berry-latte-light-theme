@@ -1,12 +1,8 @@
 # Berry Latte Light Theme
 
-A colorful, yet eye-friendly, theme designed for use on data projectors, where dark themes do not suit well. Pretty usable on regular screens as well.
+Dark themes are great, but there are contexts in which light themes suit better, such as for use on data projectors for classes and presentations.
 
 ![](https://raw.githubusercontent.com/faustocintra/vscode-berry-latte-light-theme/master/images/ex-javascript.png)
-
-## Installation
-
-In **Microsoft Visual Studio Code** (download it [here](https://code.visualstudio.com/Download)), press `Ctrl + P`. Paste `ext install goncin.berry-latte-light-theme` into the box and hit `Enter`. Reload VSCode window when done.
 
 ## Credits
 
@@ -18,6 +14,9 @@ All notable changes to this project will be documented in this section.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+### [1.0.1] - 2022-12-08
+#### Changed
+- Better theme demo screenshot.
 
 ### [1.0.0] - 2022-12-08
 #### Added
