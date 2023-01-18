@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this section.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+### [1.2.1] - 2023-01-18
+#### Changed
+- Darker shades for strings and operators to improve readability.
+- Better balance of available colors for bracket highlighting.
+- Sample screenshot updated accordingly.
+
 ### [1.1.0] - 2022-12-15
 #### Changed
 - Sharper color shades for identifiers and methods.
