@@ -2,7 +2,7 @@
 
 Dark themes are great, but there are contexts in which light themes suit better, such as for use on data projectors for classes and presentations.
 
-![](https://raw.githubusercontent.com/faustocintra/vscode-berry-latte-light-theme/master/images/ex-javascript.png)
+![](https://raw.githubusercontent.com/faustocintra/vscode-berry-latte-light-theme/master/images/js-sample-1.3.0.png)
 
 ## Credits
 
@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this section.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+
+### [1.3.0] - 2024-10-15
+#### Changed
+- Changed some token colors for better balance.
+- Window zoom button on status bar is now themed.
+- Sample screenshot updated accordingly.
 
 ### [1.2.1] - 2023-01-18
 #### Changed
